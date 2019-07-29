@@ -1,4 +1,4 @@
-# RockPaperScissors
+# RockPaperScissorsSpockLizard
 
 Optional Tasks Selected:
 
