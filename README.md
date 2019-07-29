@@ -1,6 +1,6 @@
 # RockPaperScissorsSpockLizard
 
-Optional Tasks Selected:
+Optional Tasks (Stretch Goals) Selected:
 
 1. An opponent (the program) who makes a random choice of rock paper scissors
 2. Extend the move list to include Lizard & Spock
